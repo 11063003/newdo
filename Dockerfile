@@ -1,2 +1,1 @@
-FROM ubuntu:18.04
-ENTRYPOINT ["/bin/bash", "-c", "df -m"]
+FROM solarkennedy/wine-x11-novnc-docker
